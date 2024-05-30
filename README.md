@@ -15,3 +15,8 @@
 - [Overview](#overview)
 - [Integrated-development-environment](#integrated-development-environment)
 - [Configuration](#configuration)
+- [Credentials](#credentials)
+
+<p align="center">
+  <img src="TensorFlow Advanced Techniques Specialization PKFS3D44JZWX.jpg" alt="TensorFlow Logo" width="825">
+</p>
