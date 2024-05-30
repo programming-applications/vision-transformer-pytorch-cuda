@@ -1,6 +1,6 @@
 # vit-pytorch-cuda
 <p align="center">
-  <img src="" alt="CUDA Logo" width="250">
+  <img src="pytorch.png" alt="CUDA Logo" width="250">
 </p>
 
 <h1 align="center"> Vision Transformer (ViT) PyTorch CUDA </h>
